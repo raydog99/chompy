@@ -1,0 +1,4 @@
+(executable
+ (public_name chompy)
+ (name main)
+ (libraries chompy lambdasoup))
